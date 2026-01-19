@@ -1,5 +1,5 @@
 <h1>Welcome to my GitHub!</h1>
-
+As you can see, my profile is a bit empty at the moment. If you want to get a better sense of my work, I suggest visiting my <a  target="_blank" href="https://www.linkedin.com/in/alexandre-stalin-silva-alves/">Linkedin<a/> Here on GitHub, I plan to post more occasionally — mainly old code snippets or small projects in languages I don’t usually work with. ❤
 <h2>🐱‍👤 Languages and Tools I Use</h2>
 
 <h2>✒️ Recent Posts</h2>
