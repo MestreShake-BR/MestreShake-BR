@@ -6,3 +6,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MestreShake-BR&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 </div>
+<div>
+  <img height=200 align="right" src="https://github.com/MestreShake-BR/MestreShake-BR/blob/main/broodwich-aqua-teen-hunger-force.gif" />
+</div>
