@@ -7,8 +7,3 @@
 </a>
 </div>
 
-<div>
-  <a href="https://tenor.com/bSptA.gif" target="_blank">
-    <img src="https://tenor.com/bSptA.gif" alt="GIF divertido"">
-  </a>
-</div>
