@@ -30,8 +30,6 @@ As you can see, my profile is a bit empty at the moment. If you want to get a be
   <img alt="17" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">  
 </div>
 <h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href=""></a></li>
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MestreShake-BR&theme=radical&show_icons=true" />
