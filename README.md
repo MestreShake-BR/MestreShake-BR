@@ -35,7 +35,7 @@ As you can see, my profile is a bit empty at the moment. If you want to get a be
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MestreShake-BR&theme=dracula&show_icons=true" />
 </a>
 <a align="right" href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MestreShake-BR&layout=compact&langs_count=8&card_width=320&theme=" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MestreShake-BR&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 </div><br><br>
 <div>
